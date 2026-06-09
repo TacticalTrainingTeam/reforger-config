@@ -245,6 +245,11 @@
     "required": false
   },
   {
+    "modId": "5AB301290317994A",
+    "name": "Bacon Suppressors",
+    "required": false
+  },
+  {
     "modId": "5AB890B71D748750",
     "name": "M4 Block II and URG-I",
     "required": false
