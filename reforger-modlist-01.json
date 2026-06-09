@@ -323,5 +323,25 @@
     "modId": "63325B929F261130",
     "name": "Iveco LMV",
     "required": false
+  },
+  {
+    "modId": "6626CB89B6B9C913",
+    "name": "Bystrany",
+    "required": false
+  },
+  {
+    "modId": "5E389BB9F58B79A6",
+    "name": "SpaceCore",
+    "required": false
+  },
+  {
+    "modId": "5E524E4FEECCA92B",
+    "name": "BMP-1 IFV",
+    "required": false
+  },
+  {
+    "modId": "6954C37737DD56C8",
+    "name": "GM VON FIXES",
+    "required": false
   }
 ]
