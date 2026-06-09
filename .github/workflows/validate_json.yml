@@ -1,6 +1,9 @@
 name: Validate JSON
 
 on:
+  push:
+    paths:
+      - 'config.json'
   pull_request:
     paths:
       - 'config.json'
