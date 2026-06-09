@@ -305,11 +305,6 @@
     "required": false
   },
   {
-    "modId": "5D9ECAD071E9ECBC",
-    "name": "HMMWV  VARIANTS PACK",
-    "required": false
-  },
-  {
     "modId": "64CEC8E005828E5D",
     "name": "Middle East Insurgents",
     "required": false
@@ -317,6 +312,16 @@
   {
     "modId": "65B60A48AEC31157",
     "name": "FMTV",
+    "required": false
+  },
+  {
+    "modId": "632F64CB7D65D1FC",
+    "name": "TraceVehCore",
+    "required": false
+  },
+  {
+    "modId": "5D9ECAD071E9ECBC",
+    "name": "HMMWV  VARIANTS PACK",
     "required": false
   },
   {
