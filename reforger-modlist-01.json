@@ -180,11 +180,6 @@
     "required": false
   },
   {
-    "modId": "697A81B57D4E59EC",
-    "name": "Temp CRX fix 1.7",
-    "required": false
-  },
-  {
     "modId": "606B100247F5C709",
     "name": "Bacon Loadout Editor",
     "required": false
