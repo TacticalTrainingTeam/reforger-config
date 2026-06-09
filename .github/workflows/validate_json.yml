@@ -3,10 +3,10 @@ name: Validate JSON
 on:
   push:
     paths:
-      - 'config.json'
+      - '**/*.json'
   pull_request:
     paths:
-      - 'config.json'
+      - '**/*.json'
 
 jobs:
   validate:
@@ -15,5 +15,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Validate config.json
-        run: jq . config.json
+      - name: Validate JSON files
+        run: |
+          find . -name "*.json" -type f -exec jq . {} +
