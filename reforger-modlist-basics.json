@@ -1,0 +1,307 @@
+[
+  {
+    "modId": "65AD7C139EB4C1A1",
+    "name": "ACE Backblast Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7C249E4ECDFB",
+    "name": "ACE Captives Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7C379CBD394D",
+    "name": "ACE Carrying Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7BCC9F6B3B4E",
+    "name": "ACE Chopping Dev",
+    "required": false
+  },
+  {
+    "modId": "664AFDC993C9CE1A",
+    "name": "ACE Cook-Off Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7D0D9941A380",
+    "name": "ACE Core Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7D1E9EEAFA53",
+    "name": "ACE Explosives Dev",
+    "required": false
+  },
+  {
+    "modId": "68EAA4B96976D557",
+    "name": "ACE Facepaint Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7D2E9866FA6E",
+    "name": "ACE Finger Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7D4099944EBD",
+    "name": "ACE Magazine Repack Dev",
+    "required": false
+  },
+  {
+    "modId": "671F73D99978B4F2",
+    "name": "ACE Medical Breathing Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7D4F994EA327",
+    "name": "ACE Medical Circulation Dev",
+    "required": false
+  },
+  {
+    "modId": "6586079789278413",
+    "name": "ACE Medical Core Dev",
+    "required": false
+  },
+  {
+    "modId": "65B343F799FB521B",
+    "name": "ACE Medical Hitzones Dev",
+    "required": false
+  },
+  {
+    "modId": "65B8EA178A3E94E3",
+    "name": "ACE Overheating Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7CB89F219E38",
+    "name": "ACE Tactical Ladder Dev",
+    "required": false
+  },
+  {
+    "modId": "65AD7CE59E8DB349",
+    "name": "ACE Trenches Dev",
+    "required": false
+  },
+  {
+    "modId": "667B230F9505C8BA",
+    "name": "ACE Weather Dev",
+    "required": false
+  },
+  {
+    "modId": "1337C0DE5DABBEEF",
+    "name": "RHS - Content Pack 01",
+    "required": false
+  },
+  {
+    "modId": "BADC0DEDABBEDA5E",
+    "name": "RHS - Content Pack 02",
+    "required": false
+  },
+  {
+    "modId": "595F2BF2F44836FB",
+    "name": "RHS - Status Quo",
+    "required": false
+  },
+  {
+    "modId": "65510872BC754233",
+    "name": "sTs RHS Patches",
+    "required": false
+  },
+  {
+    "modId": "629B2BA37EFFD577",
+    "name": "WCS_Armaments",
+    "required": false
+  },
+  {
+    "modId": "61C74A8B647617DA",
+    "name": "WCS_Attachments",
+    "required": false
+  },
+  {
+    "modId": "6152CB0BD0684837",
+    "name": "WCS_Clothing",
+    "required": false
+  },
+  {
+    "modId": "6602C1EC7E5A4A87",
+    "name": "WCS_Clothing_Assets",
+    "required": false
+  },
+  {
+    "modId": "612F512CD4CB21D5",
+    "name": "WCS_Earplugs",
+    "required": false
+  },
+  {
+    "modId": "615806DC6C57AF02",
+    "name": "WCS_NATO",
+    "required": false
+  },
+  {
+    "modId": "615818DA7C0343FD",
+    "name": "WCS_RU",
+    "required": false
+  },
+  {
+    "modId": "62A668F513428630",
+    "name": "WCS_Scopes",
+    "required": false
+  },
+  {
+    "modId": "631C3C1AEE9C90BC",
+    "name": "WCS_Sounds",
+    "required": false
+  },
+  {
+    "modId": "68F006D910E7546F",
+    "name": "WCS_Weapon_Scripts",
+    "required": false
+  },
+  {
+    "modId": "65CF7AE8574E06D2",
+    "name": "WCS_Weapons",
+    "required": false
+  },
+  {
+    "modId": "672B0395726428B6",
+    "name": "506IRRU - Enhanced Radio",
+    "required": false
+  },
+  {
+    "modId": "5F268647F8A1A1F4",
+    "name": "CRX Enfusion A.I.",
+    "required": false
+  },
+  {
+    "modId": "606B100247F5C709",
+    "name": "Bacon Loadout Editor",
+    "required": false
+  },
+  {
+    "modId": "5DAC39D2C3D4C8CD",
+    "name": "BetterInventory",
+    "required": false
+  },
+  {
+    "modId": "65CEF81038D4AF3C",
+    "name": "Change Your Face",
+    "required": false
+  },
+  {
+    "modId": "5B0D1E4380971EBD",
+    "name": "COALITION Squad Interface",
+    "required": false
+  },
+  {
+    "modId": "656AC01634459D8D",
+    "name": "Map Drawing",
+    "required": false
+  },
+  {
+    "modId": "62F364B35E9B51B0",
+    "name": "Wirecutters 2",
+    "required": false
+  },
+  {
+    "modId": "60B2AD8092C4C94A",
+    "name": "Disable GM Dynamic Simulation",
+    "required": false
+  },
+  {
+    "modId": "628B48364AFD286C",
+    "name": "GM Editable Intel",
+    "required": false
+  },
+  {
+    "modId": "5F2944B7474F043F",
+    "name": "Disable Game Master Budgets",
+    "required": false
+  },
+  {
+    "modId": "60CC94C046837439",
+    "name": "Game Master Copy Paste",
+    "required": false
+  },
+  {
+    "modId": "5964E0B3BB7410CE",
+    "name": "Game Master Enhanced",
+    "required": false
+  },
+  {
+    "modId": "5994AD5A9F33BE57",
+    "name": "Game Master FX",
+    "required": false
+  },
+  {
+    "modId": "6078A3A24681EFBF",
+    "name": "VON UI for Gamemasters",
+    "required": false
+  },
+  {
+    "modId": "5AB301290317994A",
+    "name": "Bacon Suppressors",
+    "required": false
+  },
+  {
+    "modId": "5AB890B71D748750",
+    "name": "M4 Block II and URG-I",
+    "required": false
+  },
+  {
+    "modId": "5AF6E0F075D79473",
+    "name": "M249 Scope Rails",
+    "required": false
+  },
+  {
+    "modId": "5ABD0CB57F7E9EB1",
+    "name": "RIS Laser Attachments",
+    "required": false
+  },
+  {
+    "modId": "64DE57C0A1601D14",
+    "name": "Lunacy Audio",
+    "required": false
+  },
+  {
+    "modId": "6088A3044B7ECBFD",
+    "name": "Keep Gun When Uncon",
+    "required": false
+  },
+  {
+    "modId": "62E0B4EB51FCE050",
+    "name": "Keep Map Markers on Disconnect",
+    "required": false
+  },
+  {
+    "modId": "6172FBB03A3D6C10",
+    "name": "ReFX - Effects Enhancement",
+    "required": false
+  },
+  {
+    "modId": "65F8C8A13B0C9E56",
+    "name": "ReFX - Muzzles",
+    "required": false
+  },
+  {
+    "modId": "691B466D9B779E10",
+    "name": "GTG Dynamic Voice Range",
+    "required": false
+  },
+  {
+    "modId": "646A1AFB53E782AC",
+    "name": "EOD Hand Entry",
+    "required": false
+  },
+  {
+    "modId": "59EAA899751805DF",
+    "name": "Stun Grenade",
+    "required": false
+  },
+  {
+    "modId": "6954C37737DD56C8",
+    "name": "GM VON FIXES",
+    "required": false
+  }
+]

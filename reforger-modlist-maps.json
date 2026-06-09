@@ -1,0 +1,62 @@
+[
+  {
+    "modId": "5C9691EA7FD7A79F",
+    "name": "KunarProvince",
+    "required": false
+  },
+  {
+    "modId": "6626CB89B6B9C913",
+    "name": "Bystrany",
+    "required": false
+  },
+  {
+    "modId": "623EEDF242F6265E",
+    "name": "Gogland",
+    "required": false
+  },
+  {
+    "modId": "653CB36244ADBE0F",
+    "name": "Ruha",
+    "required": false
+  },
+  {
+    "modId": "65EA8C9C25882838",
+    "name": "Zarichne 2025",
+    "required": false
+  },
+  {
+    "modId": "617CBAD67DCDCBF8",
+    "name": "WCS_Rostov",
+    "required": false
+  },
+  {
+    "modId": "6266DCA9193C705E",
+    "name": "Anizay",
+    "required": false
+  },
+  {
+    "modId": "597697D81A1EA202",
+    "name": "Zimnitrita",
+    "required": false
+  },
+  {
+    "modId": "68957914EA45BA6C",
+    "name": "AL Hadra",
+    "required": false
+  },
+  {
+    "modId": "6550CDE61DD51E14",
+    "name": "Novka",
+    "required": false
+  },
+  {
+    "modId": "6044F5AB4E6F9D5A",
+    "name": "West Zagoria",
+    "required": false
+  },
+  {
+    "modId": "5F04F5A0383C44B1",
+    "name": "Fallujah Map ByHeine",
+    "required": false
+  }
+]

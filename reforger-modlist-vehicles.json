@@ -1,0 +1,87 @@
+[
+  {
+    "modId": "65B60A48AEC31157",
+    "name": "FMTV",
+    "required": false
+  },
+  {
+    "modId": "632F64CB7D65D1FC",
+    "name": "TraceVehCore",
+    "required": false
+  },
+  {
+    "modId": "5D9ECAD071E9ECBC",
+    "name": "HMMWV  VARIANTS PACK",
+    "required": false
+  },
+  {
+    "modId": "63325B929F261130",
+    "name": "Iveco LMV",
+    "required": false
+  },
+  {
+    "modId": "5E524E4FEECCA92B",
+    "name": "BMP-1 IFV",
+    "required": false
+  },
+  {
+    "modId": "62C6DD26097FC89B",
+    "name": "RiverX OH-58D Kiowa Warrior",
+    "required": false
+  },
+  {
+    "modId": "5C721177A220B42F",
+    "name": "Joint Light Tactical Vehicle",
+    "required": false
+  },
+  {
+    "modId": "5B383D4CB27E0D54",
+    "name": "BMP-3 IFV",
+    "required": false
+  },
+  {
+    "modId": "60ED3CC6E7E40221",
+    "name": "Sikorsky H60 Project",
+    "required": false
+  },
+  {
+    "modId": "64E4E4EF07E53948",
+    "name": "CIE BMP-2",
+    "required": false
+  },
+  {
+    "modId": "63120AE07E6C0966",
+    "name": "M2 Bradley Fighting Vehicle",
+    "required": false
+  },
+  {
+    "modId": "633343E891C1CD38",
+    "name": "KamAZ 5350",
+    "required": false
+  },
+  {
+    "modId": "63294BA2D9F0339B",
+    "name": "WCS_ZU-23-2",
+    "required": false
+  },
+  {
+    "modId": "5E0AB16BEB16D6A4",
+    "name": "T-72 Main Battle Tank",
+    "required": false
+  },
+  {
+    "modId": "628933A0D3A0D700",
+    "name": "WCS_Mi-24V",
+    "required": false
+  },
+  {
+    "modId": "6273146ADFE8241D",
+    "name": "WCS_AH-6M",
+    "required": false
+  },
+  {
+    "modId": "64CB39E57377C861",
+    "name": "WCS_AH-1S",
+    "required": false
+  }
+]
