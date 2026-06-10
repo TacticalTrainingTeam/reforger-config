@@ -4,7 +4,9 @@
   "publicAddress": "dummy",
   "publicPort": 2001,
   "a2s": {
-    "address": "dummy"
+    "address": "dummy",
+
+    
     "port": 17777
   },
   "game": {
