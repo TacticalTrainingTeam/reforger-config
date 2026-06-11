@@ -272,11 +272,6 @@
         "required": false
       },
       {
-        "modId": "691497A137308A07",
-        "name": "WCS to Vanilla Arsenals",
-        "required": false
-      },
-      {
         "modId": "629B2BA37EFFD577",
         "name": "WCS_Armaments",
         "required": false
@@ -374,11 +369,6 @@
       {
         "modId": "60B2AD8092C4C94A",
         "name": "Disable GM Dynamic Simulation",
-        "required": false
-      },
-      {
-        "modId": "628B48364AFD286C",
-        "name": "GM Editable Intel",
         "required": false
       },
       {
@@ -519,6 +509,16 @@
       {
         "modId": "62FCEB51DF8527B6",
         "name": "Improved Blood Effect",
+        "required": false
+      },
+      {
+        "modId": "615CC2D870A39838",
+        "name": "WCS_Arsenal",
+        "required": false
+      },
+      {
+        "modId": "696C634B5F568875",
+        "name": "ArmArettos Garbage Override",
         "required": false
       }
     ],
