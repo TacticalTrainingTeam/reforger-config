@@ -520,6 +520,31 @@
         "modId": "696C634B5F568875",
         "name": "ArmArettos Garbage Override",
         "required": false
+      },
+      {
+        "modId": "5AE50EC5B8D6F4AE",
+        "name": "British Forces",
+        "required": false
+      },
+      {
+        "modId": "5EF81BADF6B113CD",
+        "name": "Submarine",
+        "required": false
+      },
+      {
+        "modId": "694909489CD2EC2A",
+        "name": "Naval Assets",
+        "required": false
+      },
+      {
+        "modId": "62593E440F3FF363",
+        "name": "Military Boats",
+        "required": false
+      },
+      {
+        "modId": "61110CC4F1FF9C8A",
+        "name": "Placeables for GM byHeine",
+        "required": false
       }
     ],
     "modsRequiredByDefault": true
