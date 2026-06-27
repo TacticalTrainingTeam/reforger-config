@@ -16,9 +16,10 @@
       "76561198321690517",
       "76561198148569398",
       "76561197995302668",
-      "76561198006629559"
+      "76561198006629559",
+      "76561197993044168"
     ],
-    "scenarioId": "{2BBBE828037C6F4B}Missions/22_GM_Arland.conf",
+    "scenarioId": "{ED2AFC95C61A93E0}Missions/5mike_kolguyev.conf",
     "maxPlayers": 80,
     "visible": true,
     "crossPlatform": true,
@@ -544,6 +545,16 @@
       {
         "modId": "61110CC4F1FF9C8A",
         "name": "Placeables for GM byHeine",
+        "required": false
+      },
+      {
+        "modId": "695C85A248D888BC",
+        "name": "5mike Dependencies",
+        "required": false
+      },
+      {
+        "modId": "697D2C23B028CC25",
+        "name": "5mike Kolguyev",
         "required": false
       }
     ],
