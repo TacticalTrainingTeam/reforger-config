@@ -388,11 +388,6 @@
         "required": false
       },
       {
-        "modId": "5994AD5A9F33BE57",
-        "name": "Game Master FX",
-        "required": false
-      },
-      {
         "modId": "6078A3A24681EFBF",
         "name": "VON UI for Gamemasters",
         "required": false
@@ -445,11 +440,6 @@
       {
         "modId": "691B466D9B779E10",
         "name": "GTG Dynamic Voice Range",
-        "required": false
-      },
-      {
-        "modId": "646A1AFB53E782AC",
-        "name": "EOD Hand Entry",
         "required": false
       },
       {
