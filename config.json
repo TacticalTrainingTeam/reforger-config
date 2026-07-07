@@ -517,11 +517,11 @@
         "name": "Placeables for GM byHeine",
         "required": false
       },
-			{
-				"modId": "697D2C23B028CC25",
-				"name": "5mike Kolguyev",
-				"required": false
-			}
+      {
+        "modId": "697D2C23B028CC25",
+        "name": "5mike Kolguyev",
+        "required": false
+      }
     ],
     "modsRequiredByDefault": true
   },
