@@ -521,6 +521,11 @@
         "modId": "697D2C23B028CC25",
         "name": "5mike Kolguyev",
         "required": false
+      },
+      {
+        "modId": "627A4B9A68EBE2BA",
+        "name": "TTT_Training",
+        "required": false
       }
     ],
     "modsRequiredByDefault": true
