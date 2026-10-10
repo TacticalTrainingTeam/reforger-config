@@ -19,7 +19,7 @@
       "76561198006629559",
       "76561197993044168"
     ],
-    "scenarioId": "{86A9ED0D897DF489}Missions/TTT_Arland_TrainingV2.conf",
+    "scenarioId": "{ED2AFC95C61A93E0}Missions/5mike_kolguyev.conf",
     "maxPlayers": 80,
     "visible": true,
     "crossPlatform": true,
@@ -518,8 +518,8 @@
         "required": false
       },
       {
-        "modId": "627A4B9A68EBE2BA",
-        "name": "TTT_Training",
+        "modId": "6A9463344ABBCD27",
+        "name": "5mike Kolguyev 2",
         "required": false
       }
     ],
