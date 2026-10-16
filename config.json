@@ -388,11 +388,6 @@
         "required": false
       },
       {
-        "modId": "6078A3A24681EFBF",
-        "name": "VON UI for Gamemasters",
-        "required": false
-      },
-      {
         "modId": "5AB301290317994A",
         "name": "Bacon Suppressors",
         "required": false
@@ -475,11 +470,6 @@
       {
         "modId": "5E524E4FEECCA92B",
         "name": "BMP-1 IFV",
-        "required": false
-      },
-      {
-        "modId": "6954C37737DD56C8",
-        "name": "GM VON FIXES",
         "required": false
       },
       {
