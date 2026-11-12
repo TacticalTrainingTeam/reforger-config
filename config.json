@@ -433,6 +433,16 @@
         "required": false
       },
       {
+        "modId": "691B466D9B779E10",
+        "name": "GTG Dynamic Voice Range",
+        "required": false
+      },
+      {
+        "modId": "6A2CF36B4BA21E0B",
+        "name": "SNK GM Voice",
+        "required": false
+      },
+      {
         "modId": "59EAA899751805DF",
         "name": "Stun Grenade",
         "required": false
