@@ -39,6 +39,7 @@
       "VONDisableDirectSpeechUI": true,
       "VONCanTransmitCrossFaction": false,
       "persistence": {
+        "loadSessionSave": true,
         "autoSaveInterval": 10,
         "hiveId": 0,
         "databases": {},
@@ -338,8 +339,13 @@
         "required": false
       },
       {
-        "modId": "606B100247F5C709",
-        "name": "Bacon Loadout Editor",
+        "modId": "69BB770D6E49A3CF",
+        "name": "2HGZ-AutoArsenal",
+        "required": false
+      },
+      {
+        "modId": "69D1538F69517FE3",
+        "name": "2HGZ-LoadoutManager",
         "required": false
       },
       {
